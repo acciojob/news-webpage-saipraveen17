@@ -5,7 +5,7 @@
 	text-align:center;
 	padding:5px;
 }
-.sect1{
+.latest-news-section{
 	width:33%;
 	background-color:white;
 	display:inline-block;
@@ -17,12 +17,14 @@
 	background-color:white;
 	display:inline-block;
 	border-radius:10%;
+	padding:1px;
 }
-.sect3{
+.pictorial-news-section{
 	width:33%;
 	background-color:white;
 	display:inline-block;
 	border-radius:10%;
+	padding:1px;
 }
 img {
 	width:100%;
